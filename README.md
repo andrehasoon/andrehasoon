@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there 👋, I'm André</h1>
-<h3 align="left">Recent graduate in Computing and Software Systems from the University of Melbourne, with expertise in coding languages, cloud technologies, and project management. Proven skills in critical thinking, attention to detail, risk assessment, and customer service, gained through part-time lifeguarding with CPR and First Aid certifications. Eager to contribute to your company's success and make a meaningful impact in my career.</h3>
+
+Recent graduate in Computing and Software Systems from the University of Melbourne, with expertise in coding languages, cloud technologies, and project management. Proven skills in critical thinking, attention to detail, risk assessment, and customer service, gained through part-time lifeguarding with CPR and First Aid certifications. Eager to contribute to your company's success and make a meaningful impact in my career.
 
 <br>
 
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📫 **How to reach me:** [andrehasoon@hotmail.com](andrehasoon@hotmail.com)
 
-- 📄 **Know about my experiences:** [My Resume - current under development 🚧](resumelinkhere.com)
+- 📄 **Know about my experiences:** [My Resume - currently under development 🚧](resumelinkhere.com)
 
 - 😄 Pronouns: He/Him
 
