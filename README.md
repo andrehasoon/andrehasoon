@@ -31,7 +31,7 @@ Recent graduate in Computing and Software Systems from the University of Melbour
 
 - 👨‍💻 All of my projects are available here:  [Projects](https://github.com/andrehasoon?tab=repositories)
 
-- 📫 How to reach me: [andrehasoon@hotmail.com](andrehasoon@hotmail.com)
+- 📫 How to reach me: andrehasoon@hotmail.com
 
 - 📄 Know about my experiences: 
 <a href="https://andrehasoon.github.io/andrehasoon/Resume/2023-10-06%20Andre%20Hasoon%20Resume%20v4.pdf" target="_blank"> My Resume</a>
