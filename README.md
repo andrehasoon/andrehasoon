@@ -29,11 +29,13 @@ Recent graduate in Computing and Software Systems from the University of Melbour
 
 - 🤝 I'm actively seeking opportunities to gain hands-on experience and contribute to the professional industry. My goal is to leverage my skills and expertise to add value to dynamic projects and teams.
 
-- 👨‍💻 All of my projects are available at [github.com/andrehasoon](https://github.com/andrehasoon)
+- 👨‍💻 All of my projects are available here:  [Projects](https://github.com/andrehasoon?tab=repositories)
 
-- 📫 **How to reach me:** [andrehasoon@hotmail.com](andrehasoon@hotmail.com)
+- 📫 How to reach me: [andrehasoon@hotmail.com](andrehasoon@hotmail.com)
 
-- 📄 **Know about my experiences:** [My Resume - currently under development 🚧](resumelinkhere.com)
+- 📄 Know about my experiences: 
+<a href="https://andrehasoon.github.io/andrehasoon/Resume/2023-10-06%20Andre%20Hasoon%20Resume%20v4.pdf" target="_blank"> My Resume</a>
+
 
 - 😄 Pronouns: He/Him
 
@@ -59,7 +61,8 @@ Recent graduate in Computing and Software Systems from the University of Melbour
 
 <div align="center">
 
-**Just an ornamental fish pond**
+<h3>Just an ornamental fish pond</h3>
+
 <br>
 <iframe width="400" height="300" frameborder="0" src="https://cdn.abowman.com/widgets/fish/fish.html?up_backgroundColor=74ccf4&up_numFish=10&up_fishColor1=f45540&up_fishColor2=f45540&up_fishColor3=000000&up_fishColor4=000000&up_fishColor5=ffffff&up_fishColor6=ffff00&up_fishColor7=ffff3e&up_fishColor8=f45540&up_fishColor9=e06c00&up_fishColor10=e06c00"></iframe>
 <br> 
